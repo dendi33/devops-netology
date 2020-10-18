@@ -31,13 +31,16 @@ override.tf.json
 *_override.tf
 
 8. Будут игнорироватся файлы по шаблону (ноль или другое значение)_override.tf.json
+
 *_override.tf.json
+
+9. Будут игнорироваться файлы по шаблоны (ноль или другое значение)_override.tf.json
 
 .terraformrc
 
-9. Игнорирование файлов .terrafomrc
+10. Игнорирование файлов .terrafomrc
 
 
 terraform.rc
 
-10. Игнорированиие файлов terraform.rc
+11. Игнорированиие файлов terraform.rc
